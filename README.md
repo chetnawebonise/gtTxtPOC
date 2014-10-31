@@ -1,0 +1,4 @@
+gtTxtPOC
+========
+
+POC for gettext
