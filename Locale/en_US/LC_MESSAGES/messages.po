@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: getText 1.0.1\n"
+"Report-Msgid-Bugs-To: chetna.patil@weboniselab.com\n"
+"Last-Translator: chetna\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+
+msgid "Let's make the web multilingual."
+msgstr "Machen wir das Internet mehrsprachig."
+
+msgid "We connect developers and translators around the globe on Lingohub for a fantastic localization experience."
+msgstr "Wir verbinden Entwickler mit Ãœbersetzern weltweit auf Lingohub fÃ¼r ein fantastisches Lokalisierungs-Erlebnis."
+
+msgid "Welcome back, %1$s! Your last visit was on %2$s"
+msgstr "Willkommen zurÃ¼ck, %1$s! Dein letzter Besuch war am %2$s"
+
+msgid "A string to be translated would go here"
+msgstr "Arey waahh zala ki ata majja kara"
+
+msgid "%d page read."
+msgid_plural "%d pages read."
+msgstr[0] "Eine Seite gelesen wurde."
+msgstr[1] "%d Seiten gelesen wurden."
+
